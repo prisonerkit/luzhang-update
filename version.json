@@ -1,20 +1,23 @@
 {
-  "version": "1.14",
-  "versionCode": 15,
+  "version": "1.15",
+  "versionCode": 16,
   "files": [
     "index.html",
     "favicon.svg",
-    "assets/check-C7B4-vFj.js",
-    "assets/chevron-left-t7mBpK9q.js",
-    "assets/day._date-B6B8VFnw.js",
+    "assets/check-DBSD_3tA.js",
+    "assets/chevron-left-JJuD0Mcs.js",
+    "assets/day._date-3O4OXrFH.js",
     "assets/format-FWZmsa9L.js",
-    "assets/holidays-BkcX8fAw.js",
-    "assets/index-B2ooVmY0.js",
-    "assets/payroll-5gEg12Sr.js",
-    "assets/routes-DOCxLEbc.js",
+    "assets/holidays-DzJdO4f-.js",
+    "assets/index-FpYZUwVH.js",
+    "assets/payroll-GdEbPTRV.js",
+    "assets/routes-BpVOCdJq.js",
     "assets/salary-BNXH_99D.js",
-    "assets/settings-b3WigbFP.js",
+    "assets/settings-CkjNjf8v.js",
     "assets/styles-DliA7STE.css",
-    "assets/trips-DJ7LAi8J.js"
+    "assets/trips-DJ7LAi8J.js",
+    "timesheet/blue.png",
+    "timesheet/daka-template.pptx",
+    "timesheet/red.png"
   ]
 }
